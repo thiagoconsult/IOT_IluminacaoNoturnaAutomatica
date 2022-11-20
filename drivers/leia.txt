@@ -1,1 +1,2 @@
-
+Para que o Windows reconheça o NodeMcu ESP-12F e o leia em uma porta paralela, é necessário instalar o driver CP210 (Se o driver do kit NodeMcu for este).
+Para que o Windows reconheça o ESP01 e o leia em uma porta paralela é necessário instalar o driver CH340.
